@@ -12,3 +12,14 @@ I'll make a more dedicated tutorial on this soon
 
 
 one of these models are for the side with the glass end, one is for the side with the metal end.
+
+UPDATES:
+
+ok, so it was a good first revision, but some changes are in order.
+
+to make assembly better I did a test print with a champfer on the end, this made things
+for cleaning up excess go much better. However I may need to widen the base part
+that fits in a bit more to account for the easier assembly, not sure
+
+Also, on the metal side I need to make the larger hole a bit taller to account
+for overprint.
